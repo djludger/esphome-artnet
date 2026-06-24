@@ -28,6 +28,7 @@ CONF_DMX_ID = "dmx_id"
 CONF_UNIVERSE = "universe"
 CONF_DIRECTION = "direction"
 CONF_ENABLED = "enabled"
+CONF_ARTNET_ID = "artnet_id"
 
 # Direction enum for routing
 Direction = artnet_ns.enum("Direction")
